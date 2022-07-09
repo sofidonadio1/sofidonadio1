@@ -1,13 +1,13 @@
-<h1 align="center">Hola 👋, soy Sofia Donadio</h1>
+<h1 align="center">Hola 👋, soy Sofi Donadio</h1>
 <h3 align="center">Contadora, Data Analyst</h3>
 
 - 👯 Estoy disponible para **Trabajo 100% Remoto, Proyectos freelance**
 
-- 📝 Regularmente escribo artículos sobre [Mis primeros pasos como Data Analyst](Mis primeros pasos como Data Analyst)
+- 📝 Regularmente escribo artículos sobre "Mis primeros pasos como Data Analyst".
 
 - 📫Escribeme a **soffi_dona@hotmail.es**
 
-- ⚡ Sobre mi **Amo leer y hacer ejercicio a diario**
+- ⚡ Sobre mi: **Amo leer y hacer ejercicio a diario**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
