@@ -1,3 +1,7 @@
+[![Header](https://C:/Users/Agustin/Desktop/Sofi.png)]
+
+<p align="center">
+
 <h1 align="center">Hola 👋, soy Sofi Donadio</h1>
 <h3 align="center">Contadora, Data Analyst</h3>
 
