@@ -1,7 +1,3 @@
-![imagen](https://C:/Users/Agustin/Desktop/Sofi/Portada.png)
-
-</p>
-
 <h1 align="center">Hola 👋, soy Sofi Donadio</h1>
 <h3 align="center">Contadora, Data Analyst</h3>
 
