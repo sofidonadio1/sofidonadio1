@@ -1,13 +1,18 @@
+![imagen](https://C:/Users/Agustin/Desktop/Sofi/Portada.png)
+
+</p>
+
 <h1 align="center">Hola 👋, soy Sofi Donadio</h1>
 <h3 align="center">Contadora, Data Analyst</h3>
 
-                     - 👯 Estoy disponible para **Trabajo 100% Remoto, Proyectos freelance**
+
+- 👯 Estoy disponible para **Trabajo 100% Remoto, Proyectos freelance**
               
-                     - ⚡ Sobre mi: Amo leer y hacer ejercicio a diario!
+- ⚡ Sobre mi: Amo leer y hacer ejercicio a diario!
 
-                     - 📝 Regularmente escribo artículos sobre "Mis primeros pasos como Data Analyst".
+- 📝 Regularmente escribo artículos sobre "Mis primeros pasos como Data Analyst".
 
-                     - 📫 Contacto: **soffi_dona@hotmail.es**
+- 📫 Contacto: **soffi_dona@hotmail.es**
 
 
 </p>
